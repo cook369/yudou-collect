@@ -1,54 +1,24 @@
 
-# Collect Time: 2025-09-10 22:23:38
-
-
-## Site: datiya
-
-| URL                                                 | Tried   | Success   |
-|-----------------------------------------------------|---------|-----------|
-| https://free.datiya.com/uploads/20250910-clash.yaml | No      | Yes       |
-| https://free.datiya.com/uploads/20250910-v2ray.txt  | No      | Yes       |
-
-采集成功: 0 / 采集失败: 0
+# Collect Time: 2025-09-11 01:57:08
 
 
 ## Site: jichangx
 
 | URL                                          | Tried   | Success   |
 |----------------------------------------------|---------|-----------|
-| https://jichangx.com/nodes/v2ray-20250910-01 | No      | Yes       |
+| https://jichangx.com/nodes/v2ray-20250911-01 | Yes     | Yes       |
 
-采集成功: 0 / 采集失败: 0
-
-
-## Site: nodefree
-
-| URL                                                         | Tried   | Success   |
-|-------------------------------------------------------------|---------|-----------|
-| https://nodefree.githubrowcontent.com/2025/09/20250910.yaml | No      | Yes       |
-| https://nodefree.githubrowcontent.com/2025/09/20250910.txt  | No      | Yes       |
-
-采集成功: 0 / 采集失败: 0
+采集成功: 1 / 采集失败: 0
 
 
-## Site: oneclash
+## Site: cfmeme
 
-| URL                                                         | Tried   | Success   |
-|-------------------------------------------------------------|---------|-----------|
-| https://oneclash.githubrowcontent.com/2025/09/20250910.yaml | No      | Yes       |
-| https://oneclash.githubrowcontent.com/2025/09/20250910.txt  | No      | Yes       |
+| URL                                                   | Tried   | Success   |
+|-------------------------------------------------------|---------|-----------|
+| https://fs.v2rayse.com/share/20250911/9wr9l3iliq.yaml | Yes     | Yes       |
+| https://fs.v2rayse.com/share/20250911/drnvvvqg7q.txt  | Yes     | Yes       |
 
-采集成功: 0 / 采集失败: 0
-
-
-## Site: yudou
-
-| URL                                                 | Tried   | Success   |
-|-----------------------------------------------------|---------|-----------|
-| https://yy.yudou66.top/202509/2025.9.10Claj5sh.yaml | No      | Yes       |
-| https://yy.yudou66.top/202509/20250910bg3ase.txt    | No      | Yes       |
-
-采集成功: 0 / 采集失败: 0
+采集成功: 2 / 采集失败: 0
 
 
 ## Site: 85la
@@ -61,11 +31,41 @@
 采集成功: 0 / 采集失败: 0
 
 
-## Site: cfmeme
+## Site: nodefree
 
-| URL                                                   | Tried   | Success   |
-|-------------------------------------------------------|---------|-----------|
-| https://fs.v2rayse.com/share/20250910/qm46qi3p7m.yaml | No      | Yes       |
-| https://fs.v2rayse.com/share/20250910/d4qzomxlrw.txt  | No      | Yes       |
+| URL                                                         | Tried   | Success   |
+|-------------------------------------------------------------|---------|-----------|
+| https://nodefree.githubrowcontent.com/2025/09/20250911.yaml | Yes     | Yes       |
+| https://nodefree.githubrowcontent.com/2025/09/20250911.txt  | Yes     | Yes       |
 
-采集成功: 0 / 采集失败: 0
+采集成功: 2 / 采集失败: 0
+
+
+## Site: oneclash
+
+| URL                                                         | Tried   | Success   |
+|-------------------------------------------------------------|---------|-----------|
+| https://oneclash.githubrowcontent.com/2025/09/20250911.yaml | Yes     | Yes       |
+| https://oneclash.githubrowcontent.com/2025/09/20250911.txt  | Yes     | Yes       |
+
+采集成功: 2 / 采集失败: 0
+
+
+## Site: yudou
+
+| URL                                                 | Tried   | Success   |
+|-----------------------------------------------------|---------|-----------|
+| https://yy.yudou66.top/202509/2025.9.11Clah7sh.yaml | Yes     | Yes       |
+| https://yy.yudou66.top/202509/20250911bd3ase.txt    | Yes     | Yes       |
+
+采集成功: 2 / 采集失败: 0
+
+
+## Site: datiya
+
+| URL                                                 | Tried   | Success   |
+|-----------------------------------------------------|---------|-----------|
+| https://free.datiya.com/uploads/20250911-clash.yaml | Yes     | Yes       |
+| https://free.datiya.com/uploads/20250911-v2ray.txt  | Yes     | No        |
+
+采集成功: 1 / 采集失败: 1
